@@ -57,14 +57,12 @@ Elements of UX:
 5. User Testing – Identifies design problems.
 Example: Searching for restaurants, ordering food and tracking deliveries easily in Swiggy represent UX.
 
-Difference Between UI and UX
-UI	                                                        UX
-Focuses on appearance.	                              Focuses on experience.
-Deals with colours and buttons.	                      Deals with usability.
-Makes the application attractive.                    	Makes the application convenient.
-Focuses on visual design.	                            Focuses on user satisfaction.
+
+<img width="359" height="104" alt="image" src="https://github.com/user-attachments/assets/e6595d5f-d292-4b65-9650-3f424567c700" />
+
 
 Conclusion: UI improves the appearance of an application, whereas UX improves its usability. Both are important for creating user-friendly applications.
+
 
 
 b) Differentiate Between UI and UX Using Real-World Case Studies
@@ -98,12 +96,13 @@ UX:
 - Route suggestions.
 - Travel time and navigation.
 Comparison
-Application	              UI	                                       UX
-Amazon	              Product images	                        Easy shopping
-Swiggy	              Food images	                            Easy food ordering
-Google Maps	          Map and icons	                          Easy navigation
+
+<img width="356" height="79" alt="image" src="https://github.com/user-attachments/assets/ff6f1424-172e-4b3f-929c-7e7ed4346294" />
+
 
 Conclusion: These applications demonstrate how UI and UX work together to provide attractive interfaces and convenient user experiences.
+
+
 
 c) Illustrate the Relationship Between UI and UX in Design
 
@@ -129,6 +128,8 @@ Benefits
 - Creates attractive and user-friendly applications.
 
 Conclusion: UI decides how an application looks, while UX decides how it works for users. Both are necessary for successful application design.
+
+
 
 d) Demonstrate Various UI/UX Design Tools in Detail
 
